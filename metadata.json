@@ -1,0 +1,6 @@
+{
+  "name": "PROJECT ECLIPSE",
+  "description": "An autonomous 3D open-world sci-fi action RPG set in 2189 across Meridian City, The Ashen Wastelands, and the NEXUS Research Complex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
